@@ -1,0 +1,1101 @@
+
+atraxa-praetors-voice:Atraxa, Praetors' Voice
+lathril-blade-of-the-elves:Lathril, Blade of the Elves
+yuriko-the-tigers-shadow:Yuriko, the Tiger's Shadow
+the-ur-dragon:The Ur-Dragon
+kenrith-the-returned-king:Kenrith, the Returned King
+edgar-markov:Edgar Markov
+prosper-tome-bound:Prosper, Tome-Bound
+korvold-fae-cursed-king:Korvold, Fae-Cursed King
+wilhelt-the-rotcleaver:Wilhelt, the Rotcleaver
+omnath-locus-of-creation:Omnath, Locus of Creation
+muldrotha-the-gravetide:Muldrotha, the Gravetide
+kaalia-of-the-vast:Kaalia of the Vast
+isshin-two-heavens-as-one:Isshin, Two Heavens as One
+krenko-mob-boss:Krenko, Mob Boss
+esika-god-of-the-tree:Esika, God of the Tree
+sisay-weatherlight-captain:Sisay, Weatherlight Captain
+chatterfang-squirrel-general:Chatterfang, Squirrel General
+meren-of-clan-nel-toth:Meren of Clan Nel Toth
+arcades-the-strategist:Arcades, the Strategist
+go-shintai-of-lifes-origin:Go-Shintai of Life's Origin
+miirym-sentinel-wyrm:Miirym, Sentinel Wyrm
+breya-etherium-shaper:Breya, Etherium Shaper
+alela-artful-provocateur:Alela, Artful Provocateur
+sythis-harvests-hand:Sythis, Harvest's Hand
+gishath-suns-avatar:Gishath, Sun's Avatar
+shorikai-genesis-engine:Shorikai, Genesis Engine
+queen-marchesa:Queen Marchesa
+anowon-the-ruin-thief:Anowon, the Ruin Thief
+animar-soul-of-elements:Animar, Soul of Elements
+osgir-the-reconstructor:Osgir, the Reconstructor
+yarok-the-desecrated:Yarok, the Desecrated
+niv-mizzet-parun:Niv-Mizzet, Parun
+liesa-shroud-of-dusk:Liesa, Shroud of Dusk
+tovolar-dire-overlord:Tovolar, Dire Overlord
+veyran-voice-of-duality:Veyran, Voice of Duality
+nekusar-the-mindrazer:Nekusar, the Mindrazer
+oloro-ageless-ascetic:Oloro, Ageless Ascetic
+zaxara-the-exemplary:Zaxara, the Exemplary
+kykar-winds-fury:Kykar, Wind's Fury
+atla-palani-nest-tender:Atla Palani, Nest Tender
+teysa-karlov:Teysa Karlov
+orvar-the-all-form:Orvar, the All-Form
+aesi-tyrant-of-gyre-strait:Aesi, Tyrant of Gyre Strait
+feather-the-redeemed:Feather, the Redeemed
+kess-dissident-mage:Kess, Dissident Mage
+krrik-son-of-yawgmoth:K'rrik, Son of Yawgmoth
+lord-windgrace:Lord Windgrace
+the-scarab-god:The Scarab God
+rin-and-seri-inseparable:Rin and Seri, Inseparable
+brago-king-eternal:Brago, King Eternal
+najeela-the-blade-blossom:Najeela, the Blade-Blossom
+zur-the-enchanter:Zur the Enchanter
+urza-lord-high-artificer:Urza, Lord High Artificer
+kalamax-the-stormsire:Kalamax, the Stormsire
+morophon-the-boundless:Morophon, the Boundless
+chulane-teller-of-tales:Chulane, Teller of Tales
+sefris-of-the-hidden-ways:Sefris of the Hidden Ways
+satoru-umezawa:Satoru Umezawa
+hinata-dawn-crowned:Hinata, Dawn-Crowned
+jodah-archmage-eternal:Jodah, Archmage Eternal
+obeka-brute-chronologist:Obeka, Brute Chronologist
+syr-gwyn-hero-of-ashvale:Syr Gwyn, Hero of Ashvale
+marchesa-the-black-rose:Marchesa, the Black Rose
+magda-brazen-outlaw:Magda, Brazen Outlaw
+volo-guide-to-monsters:Volo, Guide to Monsters
+tergrid-god-of-fright:Tergrid, God of Fright
+dina-soul-steeper:Dina, Soul Steeper
+marrow-gnawer:Marrow-Gnawer
+galea-kindler-of-hope:Galea, Kindler of Hope
+adrix-and-nev-twincasters:Adrix and Nev, Twincasters
+kozilek-the-great-distortion:Kozilek, the Great Distortion
+the-first-sliver:The First Sliver
+giada-font-of-hope:Giada, Font of Hope
+kinnan-bonder-prodigy:Kinnan, Bonder Prodigy
+jhoira-weatherlight-captain:Jhoira, Weatherlight Captain
+aminatou-the-fateshifter:Aminatou, the Fateshifter
+winota-joiner-of-forces:Winota, Joiner of Forces
+varina-lich-queen:Varina, Lich Queen
+tasigur-the-golden-fang:Tasigur, the Golden Fang
+tuvasa-the-sunlit:Tuvasa the Sunlit
+extus-oriq-overlord:Extus, Oriq Overlord
+omnath-locus-of-rage:Omnath, Locus of Rage
+xyris-the-writhing-storm:Xyris, the Writhing Storm
+henzie-toolbox-torre:Henzie "Toolbox" Torre
+anhelo-the-painter:Anhelo, the Painter
+alesha-who-smiles-at-death:Alesha, Who Smiles at Death
+admiral-beckett-brass:Admiral Beckett Brass
+torbran-thane-of-red-fell:Torbran, Thane of Red Fell
+ramos-dragon-engine:Ramos, Dragon Engine
+sliver-overlord:Sliver Overlord
+nethroi-apex-of-death:Nethroi, Apex of Death
+elsha-of-the-infinite:Elsha of the Infinite
+araumi-of-the-dead-tide:Araumi of the Dead Tide
+jetmir-nexus-of-revels:Jetmir, Nexus of Revels
+the-gitrog-monster:The Gitrog Monster
+ardenn-intrepid-archaeologist-rograkh-son-of-rohgahh:Ardenn, Intrepid Archaeologist // Rograkh, Son of Rohgahh
+tiamat:Tiamat
+codie-vociferous-codex:Codie, Vociferous Codex
+kynaios-and-tiro-of-meletis:Kynaios and Tiro of Meletis
+anje-falkenrath:Anje Falkenrath
+captain-nghathrod:Captain N'ghathrod
+light-paws-emperors-voice:Light-Paws, Emperor's Voice
+fynn-the-fangbearer:Fynn, the Fangbearer
+millicent-restless-revenant:Millicent, Restless Revenant
+saskia-the-unyielding:Saskia the Unyielding
+narset-enlightened-master:Narset, Enlightened Master
+toxrill-the-corrosive:Toxrill, the Corrosive
+tatsunari-toad-rider:Tatsunari, Toad Rider
+nicol-bolas-the-ravager:Nicol Bolas, the Ravager
+haldan-avid-arcanist-pako-arcane-retriever:Haldan, Avid Arcanist // Pako, Arcane Retriever
+riku-of-two-reflections:Riku of Two Reflections
+umbris-fear-manifest:Umbris, Fear Manifest
+the-locust-god:The Locust God
+kumena-tyrant-of-orazca:Kumena, Tyrant of Orazca
+derevi-empyrial-tactician:Derevi, Empyrial Tactician
+phenax-god-of-deception:Phenax, God of Deception
+yurlok-of-scorch-thrash:Yurlok of Scorch Thrash
+yawgmoth-thran-physician:Yawgmoth, Thran Physician
+raffine-scheming-seer:Raffine, Scheming Seer
+ranar-the-ever-watchful:Ranar the Ever-Watchful
+inalla-archmage-ritualist:Inalla, Archmage Ritualist
+yidris-maelstrom-wielder:Yidris, Maelstrom Wielder
+myrkul-lord-of-bones:Myrkul, Lord of Bones
+gavi-nest-warden:Gavi, Nest Warden
+rakdos-lord-of-riots:Rakdos, Lord of Riots
+runo-stromkirk:Runo Stromkirk
+ghave-guru-of-spores:Ghave, Guru of Spores
+zedruu-the-greathearted:Zedruu the Greathearted
+lonis-cryptozoologist:Lonis, Cryptozoologist
+koma-cosmos-serpent:Koma, Cosmos Serpent
+kadena-slinking-sorcerer:Kadena, Slinking Sorcerer
+athreos-god-of-passage:Athreos, God of Passage
+brudiclad-telchor-engineer:Brudiclad, Telchor Engineer
+karador-ghost-chieftain:Karador, Ghost Chieftain
+arahbo-roar-of-the-world:Arahbo, Roar of the World
+kyler-sigardian-emissary:Kyler, Sigardian Emissary
+zada-hedron-grinder:Zada, Hedron Grinder
+jodah-the-unifier:Jodah, the Unifier
+lynde-cheerful-tormentor:Lynde, Cheerful Tormentor
+sidisi-brood-tyrant:Sidisi, Brood Tyrant
+ziatora-the-incinerator:Ziatora, the Incinerator
+hapatra-vizier-of-poisons:Hapatra, Vizier of Poisons
+obuun-mul-daya-ancestor:Obuun, Mul Daya Ancestor
+galazeth-prismari:Galazeth Prismari
+krark-the-thumbless-sakashima-of-a-thousand-faces:Krark, the Thumbless // Sakashima of a Thousand Faces
+tatyova-benthic-druid:Tatyova, Benthic Druid
+breena-the-demagogue:Breena, the Demagogue
+xenagos-god-of-revels:Xenagos, God of Revels
+strefan-maurer-progenitor:Strefan, Maurer Progenitor
+the-mimeoplasm:The Mimeoplasm
+maelstrom-wanderer:Maelstrom Wanderer
+ghired-conclave-exile:Ghired, Conclave Exile
+beledros-witherbloom:Beledros Witherbloom
+reaper-king:Reaper King
+garth-one-eye:Garth One-Eye
+thrasios-triton-hero-tymna-the-weaver:Thrasios, Triton Hero // Tymna the Weaver
+ruric-thar-the-unbowed:Ruric Thar, the Unbowed
+talrand-sky-summoner:Talrand, Sky Summoner
+kwain-itinerant-meddler:Kwain, Itinerant Meddler
+ezuri-claw-of-progress:Ezuri, Claw of Progress
+grand-arbiter-augustin-iv:Grand Arbiter Augustin IV
+selvala-heart-of-the-wilds:Selvala, Heart of the Wilds
+ayula-queen-among-bears:Ayula, Queen Among Bears
+marwyn-the-nurturer:Marwyn, the Nurturer
+jorn-god-of-winter:Jorn, God of Winter
+trostani-selesnyas-voice:Trostani, Selesnya's Voice
+tivit-seller-of-secrets:Tivit, Seller of Secrets
+karametra-god-of-harvests:Karametra, God of Harvests
+slimefoot-the-stowaway:Slimefoot, the Stowaway
+grist-the-hunger-tide:Grist, the Hunger Tide
+sen-triplets:Sen Triplets
+belbe-corrupted-observer:Belbe, Corrupted Observer
+skullbriar-the-walking-grave:Skullbriar, the Walking Grave
+mizzix-of-the-izmagnus:Mizzix of the Izmagnus
+gargos-vicious-watcher:Gargos, Vicious Watcher
+breeches-brazen-plunderer-malcolm-keen-eyed-navigator:Breeches, Brazen Plunderer // Malcolm, Keen-Eyed Navigator
+niv-mizzet-reborn:Niv-Mizzet Reborn
+arixmethes-slumbering-isle:Arixmethes, Slumbering Isle
+queza-augur-of-agonies:Queza, Augur of Agonies
+roon-of-the-hidden-realm:Roon of the Hidden Realm
+vadrik-astral-archmage:Vadrik, Astral Archmage
+omnath-locus-of-mana:Omnath, Locus of Mana
+minn-wily-illusionist:Minn, Wily Illusionist
+syr-konrad-the-grim:Syr Konrad, the Grim
+tinybones-trinket-thief:Tinybones, Trinket Thief
+wyleth-soul-of-steel:Wyleth, Soul of Steel
+hamza-guardian-of-arashin:Hamza, Guardian of Arashin
+gyome-master-chef:Gyome, Master Chef
+chishiro-the-shattered-blade:Chishiro, the Shattered Blade
+prossh-skyraider-of-kher:Prossh, Skyraider of Kher
+chainer-nightmare-adept:Chainer, Nightmare Adept
+archelos-lagoon-mystic:Archelos, Lagoon Mystic
+tayam-luminous-enigma:Tayam, Luminous Enigma
+ghen-arcanum-weaver:Ghen, Arcanum Weaver
+grolnok-the-omnivore:Grolnok, the Omnivore
+thantis-the-warweaver:Thantis, the Warweaver
+shirei-shizos-caretaker:Shirei, Shizo's Caretaker
+jinnie-fay-jetmirs-second:Jinnie Fay, Jetmir's Second
+rhys-the-redeemed:Rhys the Redeemed
+killian-ink-duelist:Killian, Ink Duelist
+bruvac-the-grandiloquent:Bruvac the Grandiloquent
+kathril-aspect-warper:Kathril, Aspect Warper
+emry-lurker-of-the-loch:Emry, Lurker of the Loch
+orah-skyclave-hierophant:Orah, Skyclave Hierophant
+ayara-first-of-locthwain:Ayara, First of Locthwain
+thrasios-triton-hero-vial-smasher-the-fierce:Thrasios, Triton Hero // Vial Smasher the Fierce
+heliod-sun-crowned:Heliod, Sun-Crowned
+yennett-cryptic-sovereign:Yennett, Cryptic Sovereign
+tasha-the-witch-queen:Tasha, the Witch Queen
+marisi-breaker-of-the-coil:Marisi, Breaker of the Coil
+vrondiss-rage-of-ancients:Vrondiss, Rage of Ancients
+raggadragga-goreguts-boss:Raggadragga, Goreguts Boss
+neheb-the-eternal:Neheb, the Eternal
+jared-carthalion-true-heir:Jared Carthalion, True Heir
+otrimi-the-ever-playful:Otrimi, the Ever-Playful
+lathiel-the-bounteous-dawn:Lathiel, the Bounteous Dawn
+kelsien-the-plague:Kelsien, the Plague
+silvar-devourer-of-the-free-trynn-champion-of-freedom:Silvar, Devourer of the Free // Trynn, Champion of Freedom
+falco-spara-pactweaver:Falco Spara, Pactweaver
+elenda-the-dusk-rose:Elenda, the Dusk Rose
+ognis-the-dragons-lash:Ognis, the Dragon's Lash
+zacama-primal-calamity:Zacama, Primal Calamity
+grenzo-dungeon-warden:Grenzo, Dungeon Warden
+juri-master-of-the-revue:Juri, Master of the Revue
+doran-the-siege-tower:Doran, the Siege Tower
+kardur-doomscourge:Kardur, Doomscourge
+estrid-the-masked:Estrid, the Masked
+okaun-eye-of-chaos-zndrsplt-eye-of-wisdom:Okaun, Eye of Chaos // Zndrsplt, Eye of Wisdom
+cazur-ruthless-stalker-ukkima-stalking-shadow:Cazur, Ruthless Stalker // Ukkima, Stalking Shadow
+karlov-of-the-ghost-council:Karlov of the Ghost Council
+carth-the-lion:Carth the Lion
+elminster:Elminster
+brallin-skyshark-rider-shabraz-the-skyshark:Brallin, Skyshark Rider // Shabraz, the Skyshark
+rionya-fire-dancer:Rionya, Fire Dancer
+child-of-alara:Child of Alara
+kamiz-obscura-oculus:Kamiz, Obscura Oculus
+tazri-beacon-of-unity:Tazri, Beacon of Unity
+the-beamtown-bullies:The Beamtown Bullies
+evelyn-the-covetous:Evelyn, the Covetous
+wort-the-raidmother:Wort, the Raidmother
+rafiq-of-the-many:Rafiq of the Many
+omnath-locus-of-the-roil:Omnath, Locus of the Roil
+purphoros-god-of-the-forge:Purphoros, God of the Forge
+neyith-of-the-dire-hunt:Neyith of the Dire Hunt
+pramikon-sky-rampart:Pramikon, Sky Rampart
+jhoira-of-the-ghitu:Jhoira of the Ghitu
+ivy-gleeful-spellthief:Ivy, Gleeful Spellthief
+general-ferrous-rokiric:General Ferrous Rokiric
+daretti-scrap-savant:Daretti, Scrap Savant
+kruphix-god-of-horizons:Kruphix, God of Horizons
+imoti-celebrant-of-bounty:Imoti, Celebrant of Bounty
+willowdusk-essence-seer:Willowdusk, Essence Seer
+sydri-galvanic-genius:Sydri, Galvanic Genius
+jarad-golgari-lich-lord:Jarad, Golgari Lich Lord
+wulfgar-of-icewind-dale:Wulfgar of Icewind Dale
+ezuri-renegade-leader:Ezuri, Renegade Leader
+mayael-the-anima:Mayael the Anima
+sakashima-of-a-thousand-faces-vial-smasher-the-fierce:Sakashima of a Thousand Faces // Vial Smasher the Fierce
+vorinclex-monstrous-raider:Vorinclex, Monstrous Raider
+tana-the-bloodsower-tymna-the-weaver:Tana, the Bloodsower // Tymna the Weaver
+alibou-ancient-witness:Alibou, Ancient Witness
+averna-the-chaos-bloom:Averna, the Chaos Bloom
+zurgo-helmsmasher:Zurgo Helmsmasher
+mogis-god-of-slaughter:Mogis, God of Slaughter
+firesong-and-sunspeaker:Firesong and Sunspeaker
+rielle-the-everwise:Rielle, the Everwise
+darien-king-of-kjeldor:Darien, King of Kjeldor
+blim-comedic-genius:Blim, Comedic Genius
+thalisse-reverent-medium:Thalisse, Reverent Medium
+rocco-cabaretti-caterer:Rocco, Cabaretti Caterer
+kraum-ludevics-opus-tymna-the-weaver:Kraum, Ludevic's Opus // Tymna the Weaver
+uril-the-miststalker:Uril, the Miststalker
+liesa-forgotten-archangel:Liesa, Forgotten Archangel
+esix-fractal-bloom:Esix, Fractal Bloom
+lord-xander-the-collector:Lord Xander, the Collector
+edric-spymaster-of-trest:Edric, Spymaster of Trest
+ghalta-primal-hunger:Ghalta, Primal Hunger
+vito-thorn-of-the-dusk-rose:Vito, Thorn of the Dusk Rose
+nine-fingers-keene:Nine-Fingers Keene
+zurzoth-chaos-rider:Zurzoth, Chaos Rider
+scion-of-the-ur-dragon:Scion of the Ur-Dragon
+adeline-resplendent-cathar:Adeline, Resplendent Cathar
+olivia-crimson-bride:Olivia, Crimson Bride
+titania-protector-of-argoth:Titania, Protector of Argoth
+traxos-scourge-of-kroog:Traxos, Scourge of Kroog
+damia-sage-of-stone:Damia, Sage of Stone
+kroxa-titan-of-deaths-hunger:Kroxa, Titan of Death's Hunger
+faldorn-dread-wolf-herald:Faldorn, Dread Wolf Herald
+octavia-living-thesis:Octavia, Living Thesis
+rashmi-eternities-crafter:Rashmi, Eternities Crafter
+old-stickfingers:Old Stickfingers
+shadrix-silverquill:Shadrix Silverquill
+nevinyrral-urborg-tyrant:Nevinyrral, Urborg Tyrant
+marath-will-of-the-wild:Marath, Will of the Wild
+saheeli-the-gifted:Saheeli, the Gifted
+jeleva-nephalias-scourge:Jeleva, Nephalia's Scourge
+braids-conjurer-adept:Braids, Conjurer Adept
+katilda-dawnhart-prime:Katilda, Dawnhart Prime
+trelasarra-moon-dancer:Trelasarra, Moon Dancer
+illuna-apex-of-wishes:Illuna, Apex of Wishes
+akiri-fearless-voyager:Akiri, Fearless Voyager
+jan-jansen-chaos-crafter:Jan Jansen, Chaos Crafter
+nymris-oonas-trickster:Nymris, Oona's Trickster
+depala-pilot-exemplar:Depala, Pilot Exemplar
+selvala-explorer-returned:Selvala, Explorer Returned
+god-eternal-oketra:God-Eternal Oketra
+tameshi-reality-architect:Tameshi, Reality Architect
+zabaz-the-glimmerwasp:Zabaz, the Glimmerwasp
+xanathar-guild-kingpin:Xanathar, Guild Kingpin
+greasefang-okiba-boss:Greasefang, Okiba Boss
+nikya-of-the-old-ways:Nikya of the Old Ways
+hofri-ghostforge:Hofri Ghostforge
+jon-irenicus-shattered-one:Jon Irenicus, Shattered One
+oona-queen-of-the-fae:Oona, Queen of the Fae
+kambal-consul-of-allocation:Kambal, Consul of Allocation
+nalia-dearnise:Nalia de'Arnise
+ruxa-patient-professor:Ruxa, Patient Professor
+ragavan-nimble-pilferer:Ragavan, Nimble Pilferer
+vaevictis-asmadi-the-dire:Vaevictis Asmadi, the Dire
+obosh-the-preypiercer:Obosh, the Preypiercer
+kethis-the-hidden-hand:Kethis, the Hidden Hand
+gisa-and-geralf:Gisa and Geralf
+general-tazri:General Tazri
+azami-lady-of-scrolls:Azami, Lady of Scrolls
+toski-bearer-of-secrets:Toski, Bearer of Secrets
+glissa-the-traitor:Glissa, the Traitor
+phelddagrif:Phelddagrif
+lavinia-azorius-renegade:Lavinia, Azorius Renegade
+karona-false-god:Karona, False God
+greven-predator-captain:Greven, Predator Captain
+amareth-the-lustrous:Amareth, the Lustrous
+zaffai-thunder-conductor:Zaffai, Thunder Conductor
+abomination-of-llanowar:Abomination of Llanowar
+baral-chief-of-compliance:Baral, Chief of Compliance
+ishai-ojutai-dragonspeaker-jeska-thrice-reborn:Ishai, Ojutai Dragonspeaker // Jeska, Thrice Reborn
+pir-imaginative-rascal-toothy-imaginary-friend:Pir, Imaginative Rascal // Toothy, Imaginary Friend
+toshiro-umezawa:Toshiro Umezawa
+volrath-the-shapestealer:Volrath, the Shapestealer
+felisa-fang-of-silverquill:Felisa, Fang of Silverquill
+thraximundar:Thraximundar
+ashaya-soul-of-the-wild:Ashaya, Soul of the Wild
+sram-senior-edificer:Sram, Senior Edificer
+lurrus-of-the-dream-den:Lurrus of the Dream-Den
+aegar-the-freezing-flame:Aegar, the Freezing Flame
+sheoldred-the-apocalypse:Sheoldred, the Apocalypse
+svella-ice-shaper:Svella, Ice Shaper
+aurelia-the-warleader:Aurelia, the Warleader
+vega-the-watcher:Vega, the Watcher
+liliana-heretical-healer:Liliana, Heretical Healer
+torens-fist-of-the-angels:Torens, Fist of the Angels
+xantcha-sleeper-agent:Xantcha, Sleeper Agent
+feldon-of-the-third-path:Feldon of the Third Path
+teshar-ancestors-apostle:Teshar, Ancestor's Apostle
+horde-of-notions:Horde of Notions
+goreclaw-terror-of-qal-sisma:Goreclaw, Terror of Qal Sisma
+birgi-god-of-storytelling:Birgi, God of Storytelling
+oswald-fiddlebender:Oswald Fiddlebender
+asmoranomardicadaistinaculdacar:Asmoranomardicadaistinaculdacar
+yusri-fortunes-flame:Yusri, Fortune's Flame
+klauth-unrivaled-ancient:Klauth, Unrivaled Ancient
+bruna-light-of-alabaster:Bruna, Light of Alabaster
+eloise-nephalia-sleuth:Eloise, Nephalia Sleuth
+raphael-fiendish-savior:Raphael, Fiendish Savior
+slogurk-the-overslime:Slogurk, the Overslime
+yorion-sky-nomad:Yorion, Sky Nomad
+neera-wild-mage:Neera, Wild Mage
+klothys-god-of-destiny:Klothys, God of Destiny
+yisan-the-wanderer-bard:Yisan, the Wanderer Bard
+kresh-the-bloodbraided:Kresh the Bloodbraided
+emmara-soul-of-the-accord:Emmara, Soul of the Accord
+teysa-orzhov-scion:Teysa, Orzhov Scion
+samut-voice-of-dissent:Samut, Voice of Dissent
+emiel-the-blessed:Emiel the Blessed
+licia-sanguine-tribune:Licia, Sanguine Tribune
+valki-god-of-lies:Valki, God of Lies
+kotori-pilot-prodigy:Kotori, Pilot Prodigy
+leinore-autumn-sovereign:Leinore, Autumn Sovereign
+norin-the-wary:Norin the Wary
+minsc-beloved-ranger:Minsc, Beloved Ranger
+vadrok-apex-of-thunder:Vadrok, Apex of Thunder
+surrak-dragonclaw:Surrak Dragonclaw
+kangee-sky-warden:Kangee, Sky Warden
+azusa-lost-but-seeking:Azusa, Lost but Seeking
+avacyn-angel-of-hope:Avacyn, Angel of Hope
+kediss-emberclaw-familiar-malcolm-keen-eyed-navigator:Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator
+yedora-grave-gardener:Yedora, Grave Gardener
+inniaz-the-gale-force:Inniaz, the Gale Force
+sarulf-realm-eater:Sarulf, Realm Eater
+jirina-kudro:Jirina Kudro
+dihada-binder-of-wills:Dihada, Binder of Wills
+minsc-boo-timeless-heroes:Minsc &amp; Boo, Timeless Heroes
+daxos-the-returned:Daxos the Returned
+ephara-god-of-the-polis:Ephara, God of the Polis
+grismold-the-dreadsower:Grismold, the Dreadsower
+shu-yun-the-silent-tempest:Shu Yun, the Silent Tempest
+sharuum-the-hegemon:Sharuum the Hegemon
+zirda-the-dawnwaker:Zirda, the Dawnwaker
+halana-and-alena-partners:Halana and Alena, Partners
+sliver-hivelord:Sliver Hivelord
+lazav-dimir-mastermind:Lazav, Dimir Mastermind
+the-scorpion-god:The Scorpion God
+delina-wild-mage:Delina, Wild Mage
+lathliss-dragon-queen:Lathliss, Dragon Queen
+elesh-norn-grand-cenobite:Elesh Norn, Grand Cenobite
+progenitus:Progenitus
+chandra-fire-of-kaladesh:Chandra, Fire of Kaladesh
+eruth-tormented-prophet:Eruth, Tormented Prophet
+piru-the-volatile:Piru, the Volatile
+brion-stoutarm:Brion Stoutarm
+ghoulcaller-gisa:Ghoulcaller Gisa
+kodama-of-the-east-tree-sakashima-of-a-thousand-faces:Kodama of the East Tree // Sakashima of a Thousand Faces
+toralf-god-of-fury:Toralf, God of Fury
+etali-primal-storm:Etali, Primal Storm
+florian-voldaren-scion:Florian, Voldaren Scion
+mairsil-the-pretender:Mairsil, the Pretender
+purphoros-bronze-blooded:Purphoros, Bronze-Blooded
+jadzi-oracle-of-arcavios:Jadzi, Oracle of Arcavios
+mazirek-kraul-death-priest:Mazirek, Kraul Death Priest
+sethron-hurloon-general:Sethron, Hurloon General
+phylath-world-sculptor:Phylath, World Sculptor
+aeve-progenitor-ooze:Aeve, Progenitor Ooze
+burakos-party-leader-folk-hero:Burakos, Party Leader // Folk Hero
+radha-heart-of-keld:Radha, Heart of Keld
+kaza-roil-chaser:Kaza, Roil Chaser
+jegantha-the-wellspring:Jegantha, the Wellspring
+hallar-the-firefletcher:Hallar, the Firefletcher
+godo-bandit-warlord:Godo, Bandit Warlord
+sai-master-thopterist:Sai, Master Thopterist
+hazezon-shaper-of-sand:Hazezon, Shaper of Sand
+rakdos-the-showstopper:Rakdos, the Showstopper
+negan-the-cold-blooded:Negan, the Cold-Blooded
+vorel-of-the-hull-clade:Vorel of the Hull Clade
+sedris-the-traitor-king:Sedris, the Traitor King
+bruenor-battlehammer:Bruenor Battlehammer
+sigarda-host-of-herons:Sigarda, Host of Herons
+ruhan-of-the-fomori:Ruhan of the Fomori
+jolene-the-plunder-queen:Jolene, the Plunder Queen
+siona-captain-of-the-pyleas:Siona, Captain of the Pyleas
+colfenor-the-last-yew:Colfenor, the Last Yew
+velomachus-lorehold:Velomachus Lorehold
+krav-the-unredeemed-regna-the-redeemer:Krav, the Unredeemed // Regna, the Redeemer
+odric-lunarch-marshal:Odric, Lunarch Marshal
+chun-li-countless-kicks:Chun-Li, Countless Kicks
+lier-disciple-of-the-drowned:Lier, Disciple of the Drowned
+gyruda-doom-of-depths:Gyruda, Doom of Depths
+wort-boggart-auntie:Wort, Boggart Auntie
+unesh-criosphinx-sovereign:Unesh, Criosphinx Sovereign
+jin-gitaxias-progress-tyrant:Jin-Gitaxias, Progress Tyrant
+tevesh-szat-doom-of-fools-thrasios-triton-hero:Tevesh Szat, Doom of Fools // Thrasios, Triton Hero
+borborygmos-enraged:Borborygmos Enraged
+brokkos-apex-of-forever:Brokkos, Apex of Forever
+yasharn-implacable-earth:Yasharn, Implacable Earth
+braids-arisen-nightmare:Braids, Arisen Nightmare
+shattergang-brothers:Shattergang Brothers
+karn-silver-golem:Karn, Silver Golem
+verazol-the-split-current:Verazol, the Split Current
+gisela-blade-of-goldnight:Gisela, Blade of Goldnight
+cadira-caller-of-the-small:Cadira, Caller of the Small
+svyelun-of-sea-and-sky:Svyelun of Sea and Sky
+bruse-tarl-boorish-herder-thrasios-triton-hero:Bruse Tarl, Boorish Herder // Thrasios, Triton Hero
+charix-the-raging-isle:Charix, the Raging Isle
+uro-titan-of-natures-wrath:Uro, Titan of Nature's Wrath
+adeliz-the-cinder-wind:Adeliz, the Cinder Wind
+meria-scholar-of-antiquity:Meria, Scholar of Antiquity
+noyan-dar-roil-shaper:Noyan Dar, Roil Shaper
+nath-of-the-gilt-leaf:Nath of the Gilt-Leaf
+anafenza-the-foremost:Anafenza, the Foremost
+kodama-of-the-east-tree-toggo-goblin-weaponsmith:Kodama of the East Tree // Toggo, Goblin Weaponsmith
+athreos-shroud-veiled:Athreos, Shroud-Veiled
+merieke-ri-berit:Merieke Ri Berit
+ishkanah-grafwidow:Ishkanah, Grafwidow
+firkraag-cunning-instigator:Firkraag, Cunning Instigator
+satsuki-the-living-lore:Satsuki, the Living Lore
+freyalise-llanowars-fury:Freyalise, Llanowar's Fury
+lazav-the-multifarious:Lazav, the Multifarious
+ayli-eternal-pilgrim:Ayli, Eternal Pilgrim
+ikra-shidiqi-the-usurper-tymna-the-weaver:Ikra Shidiqi, the Usurper // Tymna the Weaver
+lyra-dawnbringer:Lyra Dawnbringer
+zevlor-elturel-exile:Zevlor, Elturel Exile
+syr-carah-the-bold:Syr Carah, the Bold
+skithiryx-the-blight-dragon:Skithiryx, the Blight Dragon
+hogaak-arisen-necropolis:Hogaak, Arisen Necropolis
+yasova-dragonclaw:Yasova Dragonclaw
+taigam-ojutai-master:Taigam, Ojutai Master
+elas-il-kor-sadistic-pilgrim:Elas il-Kor, Sadistic Pilgrim
+grumgully-the-generous:Grumgully, the Generous
+eight-and-a-half-tails:Eight-and-a-Half-Tails
+captain-sisay:Captain Sisay
+akiri-line-slinger-silas-renn-seeker-adept:Akiri, Line-Slinger // Silas Renn, Seeker Adept
+eligeth-crossroads-augur-siani-eye-of-the-storm:Eligeth, Crossroads Augur // Siani, Eye of the Storm
+alaundo-the-seer:Alaundo the Seer
+melek-izzet-paragon:Melek, Izzet Paragon
+sevinne-the-chronoclasm:Sevinne, the Chronoclasm
+koll-the-forgemaster:Koll, the Forgemaster
+sygg-river-cutthroat:Sygg, River Cutthroat
+shalai-voice-of-plenty:Shalai, Voice of Plenty
+thassa-deep-dwelling:Thassa, Deep-Dwelling
+quintorius-field-historian:Quintorius, Field Historian
+gluntch-the-bestower:Gluntch, the Bestower
+kodama-of-the-west-tree:Kodama of the West Tree
+sephara-skys-blade:Sephara, Sky's Blade
+o-kagachi-vengeful-kami:O-Kagachi, Vengeful Kami
+tolsimir-friend-to-wolves:Tolsimir, Friend to Wolves
+baba-lysaga-night-witch:Baba Lysaga, Night Witch
+soul-of-windgrace:Soul of Windgrace
+malcolm-keen-eyed-navigator-vial-smasher-the-fierce:Malcolm, Keen-Eyed Navigator // Vial Smasher the Fierce
+gisa-glorious-resurrector:Gisa, Glorious Resurrector
+ishai-ojutai-dragonspeaker-reyhan-last-of-the-abzan:Ishai, Ojutai Dragonspeaker // Reyhan, Last of the Abzan
+syrix-carrier-of-the-flame:Syrix, Carrier of the Flame
+gor-muldrak-amphinologist:Gor Muldrak, Amphinologist
+sakashima-of-a-thousand-faces-tymna-the-weaver:Sakashima of a Thousand Faces // Tymna the Weaver
+kitt-kanto-mayhem-diva:Kitt Kanto, Mayhem Diva
+the-reality-chip:The Reality Chip
+karazikar-the-eye-tyrant:Karazikar, the Eye Tyrant
+raiyuu-storms-edge:Raiyuu, Storm's Edge
+gonti-lord-of-luxury:Gonti, Lord of Luxury
+iroas-god-of-victory:Iroas, God of Victory
+kosei-penitent-warlord:Kosei, Penitent Warlord
+tor-wauki-the-younger:Tor Wauki the Younger
+blanka-ferocious-friend:Blanka, Ferocious Friend
+gorion-wise-mentor:Gorion, Wise Mentor
+prime-speaker-vannifar:Prime Speaker Vannifar
+hidetsugu-devouring-chaos:Hidetsugu, Devouring Chaos
+laelia-the-blade-reforged:Laelia, the Blade Reforged
+valduk-keeper-of-the-flame:Valduk, Keeper of the Flame
+raff-capashen-ships-mage:Raff Capashen, Ship's Mage
+jared-carthalion:Jared Carthalion
+zo-zu-the-punisher:Zo-Zu the Punisher
+firja-judge-of-valor:Firja, Judge of Valor
+rebbec-architect-of-ascension-silas-renn-seeker-adept:Rebbec, Architect of Ascension // Silas Renn, Seeker Adept
+perrie-the-pulverizer:Perrie, the Pulverizer
+thromok-the-insatiable:Thromok the Insatiable
+maja-bretagard-protector:Maja, Bretagard Protector
+kami-of-the-crescent-moon:Kami of the Crescent Moon
+chromium-the-mutable:Chromium, the Mutable
+kalain-reclusive-painter:Kalain, Reclusive Painter
+kyodai-soul-of-kamigawa:Kyodai, Soul of Kamigawa
+sigarda-champion-of-light:Sigarda, Champion of Light
+bjorna-nightfall-alchemist-wernog-riders-chaplain:Bjorna, Nightfall Alchemist // Wernog, Rider's Chaplain
+jaxis-the-troublemaker:Jaxis, the Troublemaker
+yeva-natures-herald:Yeva, Nature's Herald
+hans-eriksson:Hans Eriksson
+muxus-goblin-grandee:Muxus, Goblin Grandee
+grand-warlord-radha:Grand Warlord Radha
+chevill-bane-of-monsters:Chevill, Bane of Monsters
+zur-eternal-schemer:Zur, Eternal Schemer
+cecily-haunted-mage-othelm-sigardian-outcast:Cecily, Haunted Mage // Othelm, Sigardian Outcast
+chainer-dementia-master:Chainer, Dementia Master
+dakkon-blackblade:Dakkon Blackblade
+vilis-broker-of-blood:Vilis, Broker of Blood
+minthara-merciless-soul:Minthara, Merciless Soul
+gallia-of-the-endless-dance:Gallia of the Endless Dance
+zilortha-strength-incarnate:Zilortha, Strength Incarnate
+storvald-frost-giant-jarl:Storvald, Frost Giant Jarl
+mathas-fiend-seeker:Mathas, Fiend Seeker
+tetsuo-imperial-champion:Tetsuo, Imperial Champion
+sekkuar-deathkeeper:Sek'Kuar, Deathkeeper
+farideh-devils-chosen:Farideh, Devil's Chosen
+varragoth-bloodsky-sire:Varragoth, Bloodsky Sire
+tetsuko-umezawa-fugitive:Tetsuko Umezawa, Fugitive
+tanazir-quandrix:Tanazir Quandrix
+grothama-all-devouring:Grothama, All-Devouring
+etrata-the-silencer:Etrata, the Silencer
+rienne-angel-of-rebirth:Rienne, Angel of Rebirth
+duke-ulder-ravengard:Duke Ulder Ravengard
+memnarch:Memnarch
+kels-fight-fixer:Kels, Fight Fixer
+cormela-glamour-thief:Cormela, Glamour Thief
+mr-orfeo-the-boulder:Mr. Orfeo, the Boulder
+maralen-of-the-mornsong:Maralen of the Mornsong
+mazzy-truesword-paladin:Mazzy, Truesword Paladin
+kamahl-heart-of-krosa-tymna-the-weaver:Kamahl, Heart of Krosa // Tymna the Weaver
+drizzt-dourden:Drizzt Do'Urden
+kodama-of-the-east-tree-tymna-the-weaver:Kodama of the East Tree // Tymna the Weaver
+sliver-queen:Sliver Queen
+momir-vig-simic-visionary:Momir Vig, Simic Visionary
+bane-lord-of-darkness:Bane, Lord of Darkness
+keranos-god-of-storms:Keranos, God of Storms
+kros-defense-contractor:Kros, Defense Contractor
+geist-of-saint-traft:Geist of Saint Traft
+ratadrabik-of-urborg:Ratadrabik of Urborg
+kraum-ludevics-opus-tevesh-szat-doom-of-fools:Kraum, Ludevic's Opus // Tevesh Szat, Doom of Fools
+experiment-kraj:Experiment Kraj
+mila-crafty-companion:Mila, Crafty Companion
+rigo-streetwise-mentor:Rigo, Streetwise Mentor
+the-council-of-four:The Council of Four
+bruse-tarl-boorish-herder-ikra-shidiqi-the-usurper:Bruse Tarl, Boorish Herder // Ikra Shidiqi, the Usurper
+savra-queen-of-the-golgari:Savra, Queen of the Golgari
+varolz-the-scar-striped:Varolz, the Scar-Striped
+rem-karolus-stalwart-slayer:Rem Karolus, Stalwart Slayer
+rowan-kenrith-will-kenrith:Rowan Kenrith // Will Kenrith
+reki-the-history-of-kamigawa:Reki, the History of Kamigawa
+kemba-kha-regent:Kemba, Kha Regent
+rhoda-geist-avenger-timin-youthful-geist:Rhoda, Geist Avenger // Timin, Youthful Geist
+mirri-weatherlight-duelist:Mirri, Weatherlight Duelist
+arcum-dagsson:Arcum Dagsson
+rograkh-son-of-rohgahh-tevesh-szat-doom-of-fools:Rograkh, Son of Rohgahh // Tevesh Szat, Doom of Fools
+dragonlord-ojutai:Dragonlord Ojutai
+olivia-voldaren:Olivia Voldaren
+krenko-tin-street-kingpin:Krenko, Tin Street Kingpin
+horobi-deaths-wail:Horobi, Death's Wail
+kaervek-the-merciless:Kaervek the Merciless
+vazi-keen-negotiator:Vazi, Keen Negotiator
+ulamog-the-ceaseless-hunger:Ulamog, the Ceaseless Hunger
+jalira-master-polymorphist:Jalira, Master Polymorphist
+mari-the-killing-quill:Mari, the Killing Quill
+malcolm-keen-eyed-navigator-tana-the-bloodsower:Malcolm, Keen-Eyed Navigator // Tana, the Bloodsower
+mina-and-denn-wildborn:Mina and Denn, Wildborn
+anje-maid-of-dishonor:Anje, Maid of Dishonor
+ashling-the-pilgrim:Ashling the Pilgrim
+judith-the-scourge-diva:Judith, the Scourge Diva
+dargo-the-shipwrecker-jeska-thrice-reborn:Dargo, the Shipwrecker // Jeska, Thrice Reborn
+kaima-the-fractured-calm:Kaima, the Fractured Calm
+lagrella-the-magpie:Lagrella, the Magpie
+tana-the-bloodsower-tevesh-szat-doom-of-fools:Tana, the Bloodsower // Tevesh Szat, Doom of Fools
+kestia-the-cultivator:Kestia, the Cultivator
+ardenn-intrepid-archaeologist-tana-the-bloodsower:Ardenn, Intrepid Archaeologist // Tana, the Bloodsower
+ikra-shidiqi-the-usurper-prava-of-the-steel-legion:Ikra Shidiqi, the Usurper // Prava of the Steel Legion
+cromat:Cromat
+atarka-world-render:Atarka, World Render
+king-macar-the-gold-cursed:King Macar, the Gold-Cursed
+nihiloor:Nihiloor
+jeska-thrice-reborn-tymna-the-weaver:Jeska, Thrice Reborn // Tymna the Weaver
+snapdax-apex-of-the-hunt:Snapdax, Apex of the Hunt
+nikara-lair-scavenger-yannik-scavenging-sentinel:Nikara, Lair Scavenger // Yannik, Scavenging Sentinel
+phage-the-untouchable:Phage the Untouchable
+subira-tulzidi-caravanner:Subira, Tulzidi Caravanner
+zangief-the-red-cyclone:Zangief, the Red Cyclone
+reyhan-last-of-the-abzan-yoshimaru-ever-faithful:Reyhan, Last of the Abzan // Yoshimaru, Ever Faithful
+bosh-iron-golem:Bosh, Iron Golem
+gyrus-waker-of-corpses:Gyrus, Waker of Corpses
+zara-renegade-recruiter:Zara, Renegade Recruiter
+grimgrin-corpse-born:Grimgrin, Corpse-Born
+sasaya-orochi-ascendant:Sasaya, Orochi Ascendant
+intet-the-dreamer:Intet, the Dreamer
+gnostro-voice-of-the-crags:Gnostro, Voice of the Crags
+oskar-rubbish-reclaimer:Oskar, Rubbish Reclaimer
+rograkh-son-of-rohgahh-silas-renn-seeker-adept:Rograkh, Son of Rohgahh // Silas Renn, Seeker Adept
+edgar-charmed-groom:Edgar, Charmed Groom
+kediss-emberclaw-familiar-rograkh-son-of-rohgahh:Kediss, Emberclaw Familiar // Rograkh, Son of Rohgahh
+inferno-of-the-star-mounts:Inferno of the Star Mounts
+moritte-of-the-frost:Moritte of the Frost
+izoni-thousand-eyed:Izoni, Thousand-Eyed
+hope-of-ghirapur:Hope of Ghirapur
+teferi-temporal-archmage:Teferi, Temporal Archmage
+atogatog:Atogatog
+kozilek-butcher-of-truth:Kozilek, Butcher of Truth
+ich-tekik-salvage-splicer-rebbec-architect-of-ascension:Ich-Tekik, Salvage Splicer // Rebbec, Architect of Ascension
+jacob-hauken-inspector:Jacob Hauken, Inspector
+jori-en-ruin-diver:Jori En, Ruin Diver
+kaseto-orochi-archmage:Kaseto, Orochi Archmage
+thelon-of-havenwood:Thelon of Havenwood
+shanna-purifying-blade:Shanna, Purifying Blade
+rosheen-meanderer:Rosheen Meanderer
+arjun-the-shifting-flame:Arjun, the Shifting Flame
+mahadi-emporium-master:Mahadi, Emporium Master
+cosima-god-of-the-voyage:Cosima, God of the Voyage
+vela-the-night-clad:Vela the Night-Clad
+narfi-betrayer-king:Narfi, Betrayer King
+gahiji-honored-one:Gahiji, Honored One
+baru-wurmspeaker:Baru, Wurmspeaker
+abdel-adrian-gorions-ward-candlekeep-sage:Abdel Adrian, Gorion's Ward // Candlekeep Sage
+sheoldred-whispering-one:Sheoldred, Whispering One
+karrthus-tyrant-of-jund:Karrthus, Tyrant of Jund
+tariel-reckoner-of-souls:Tariel, Reckoner of Souls
+nin-the-pain-artist:Nin, the Pain Artist
+arvinox-the-mind-flail:Arvinox, the Mind Flail
+gaddock-teeg:Gaddock Teeg
+naban-dean-of-iteration:Naban, Dean of Iteration
+seton-krosan-protector:Seton, Krosan Protector
+aryel-knight-of-windgrace:Aryel, Knight of Windgrace
+hazezon-tamar:Hazezon Tamar
+zagras-thief-of-heartbeats:Zagras, Thief of Heartbeats
+ghost-of-ramirez-depietro-tormod-the-desecrator:Ghost of Ramirez DePietro // Tormod, the Desecrator
+rankle-master-of-pranks:Rankle, Master of Pranks
+gorm-the-great-virtus-the-veiled:Gorm the Great // Virtus the Veiled
+dalakos-crafter-of-wonders:Dalakos, Crafter of Wonders
+baeloth-barrityl-entertainer-raised-by-giants:Baeloth Barrityl, Entertainer // Raised by Giants
+akroma-vision-of-ixidor-rograkh-son-of-rohgahh:Akroma, Vision of Ixidor // Rograkh, Son of Rohgahh
+heartless-hidetsugu:Heartless Hidetsugu
+emrakul-the-promised-end:Emrakul, the Promised End
+mangara-the-diplomat:Mangara, the Diplomat
+mirko-vosk-mind-drinker:Mirko Vosk, Mind Drinker
+wyll-blade-of-frontiers-sword-coast-sailor:Wyll, Blade of Frontiers // Sword Coast Sailor
+ikra-shidiqi-the-usurper-kraum-ludevics-opus:Ikra Shidiqi, the Usurper // Kraum, Ludevic's Opus
+mikaeus-the-unhallowed:Mikaeus, the Unhallowed
+nylea-keen-eyed:Nylea, Keen-Eyed
+endrek-sahr-master-breeder:Endrek Sahr, Master Breeder
+rith-the-awakener:Rith, the Awakener
+taborax-hopes-demise:Taborax, Hope's Demise
+ilharg-the-raze-boar:Ilharg, the Raze-Boar
+rayami-first-of-the-fallen:Rayami, First of the Fallen
+atemsis-all-seeing:Atemsis, All-Seeing
+donal-herald-of-wings:Donal, Herald of Wings
+gale-waterdeep-prodigy-scion-of-halaster:Gale, Waterdeep Prodigy // Scion of Halaster
+erebos-god-of-the-dead:Erebos, God of the Dead
+nicol-bolas:Nicol Bolas
+wasitora-nekoru-queen:Wasitora, Nekoru Queen
+plargg-dean-of-chaos:Plargg, Dean of Chaos
+hanna-ships-navigator:Hanna, Ship's Navigator
+jhoira-ageless-innovator:Jhoira, Ageless Innovator
+kalemne-disciple-of-iroas:Kalemne, Disciple of Iroas
+niv-mizzet-the-firemind:Niv-Mizzet, the Firemind
+kiki-jiki-mirror-breaker:Kiki-Jiki, Mirror Breaker
+eutropia-the-twice-favored:Eutropia the Twice-Favored
+massacre-girl:Massacre Girl
+malcolm-keen-eyed-navigator-tymna-the-weaver:Malcolm, Keen-Eyed Navigator // Tymna the Weaver
+obzedat-ghost-council:Obzedat, Ghost Council
+toluz-clever-conductor:Toluz, Clever Conductor
+rubinia-soulsinger:Rubinia Soulsinger
+grunn-the-lonely-king:Grunn, the Lonely King
+gretchen-titchwillow:Gretchen Titchwillow
+acererak-the-archlich:Acererak the Archlich
+balan-wandering-knight:Balan, Wandering Knight
+seizan-perverter-of-truth:Seizan, Perverter of Truth
+thrasios-triton-hero-toggo-goblin-weaponsmith:Thrasios, Triton Hero // Toggo, Goblin Weaponsmith
+mishra-artificer-prodigy:Mishra, Artificer Prodigy
+selenia-dark-angel:Selenia, Dark Angel
+eligeth-crossroads-augur-kydele-chosen-of-kruphix:Eligeth, Crossroads Augur // Kydele, Chosen of Kruphix
+tahngarth-first-mate:Tahngarth, First Mate
+rick-steadfast-leader:Rick, Steadfast Leader
+thrun-the-last-troll:Thrun, the Last Troll
+daxos-of-meletis:Daxos of Meletis
+god-eternal-kefnet:God-Eternal Kefnet
+angus-mackenzie:Angus Mackenzie
+kydele-chosen-of-kruphix-vial-smasher-the-fierce:Kydele, Chosen of Kruphix // Vial Smasher the Fierce
+phabine-bosss-confidant:Phabine, Boss's Confidant
+bladewing-the-risen:Bladewing the Risen
+yorvo-lord-of-garenbrig:Yorvo, Lord of Garenbrig
+jenara-asura-of-war:Jenara, Asura of War
+evra-halcyon-witness:Evra, Halcyon Witness
+teneb-the-harvester:Teneb, the Harvester
+jace-vryns-prodigy:Jace, Vryn's Prodigy
+yahenni-undying-partisan:Yahenni, Undying Partisan
+tishana-voice-of-thunder:Tishana, Voice of Thunder
+rograkh-son-of-rohgahh-thrasios-triton-hero:Rograkh, Son of Rohgahh // Thrasios, Triton Hero
+lord-of-tresserhorn:Lord of Tresserhorn
+sidar-kondo-of-jamuraa-tymna-the-weaver:Sidar Kondo of Jamuraa // Tymna the Weaver
+jenson-carthalion-druid-exile:Jenson Carthalion, Druid Exile
+archangel-avacyn:Archangel Avacyn
+patron-of-the-moon:Patron of the Moon
+blex-vexing-pest:Blex, Vexing Pest
+laezel-vlaakiths-champion-master-chef:Lae'zel, Vlaakith's Champion // Master Chef
+bess-soul-nourisher:Bess, Soul Nourisher
+wrexial-the-risen-deep:Wrexial, the Risen Deep
+krydle-of-baldurs-gate:Krydle of Baldur's Gate
+multani-yavimayas-avatar:Multani, Yavimaya's Avatar
+ertai-the-corrupted:Ertai, the Corrupted
+kaalia-zenith-seeker:Kaalia, Zenith Seeker
+nahiri-the-lithomancer:Nahiri, the Lithomancer
+keleth-sunmane-familiar-rograkh-son-of-rohgahh:Keleth, Sunmane Familiar // Rograkh, Son of Rohgahh
+bruna-the-fading-light:Bruna, the Fading Light
+rune-tail-kitsune-ascendant:Rune-Tail, Kitsune Ascendant
+shanid-sleepers-scourge:Shanid, Sleepers' Scourge
+isamaru-hound-of-konda:Isamaru, Hound of Konda
+atris-oracle-of-half-truths:Atris, Oracle of Half-Truths
+alena-kessig-trapper-halana-kessig-ranger:Alena, Kessig Trapper // Halana, Kessig Ranger
+yargle-glutton-of-urborg:Yargle, Glutton of Urborg
+pharika-god-of-affliction:Pharika, God of Affliction
+geralf-visionary-stitcher:Geralf, Visionary Stitcher
+sygg-river-guide:Sygg, River Guide
+sliver-legion:Sliver Legion
+daryl-hunter-of-walkers:Daryl, Hunter of Walkers
+jolrael-mwonvuli-recluse:Jolrael, Mwonvuli Recluse
+mavinda-students-advocate:Mavinda, Students' Advocate
+saffi-eriksdotter:Saffi Eriksdotter
+roalesk-apex-hybrid:Roalesk, Apex Hybrid
+zimone-quandrix-prodigy:Zimone, Quandrix Prodigy
+balmor-battlemage-captain:Balmor, Battlemage Captain
+ravos-soultender-tymna-the-weaver:Ravos, Soultender // Tymna the Weaver
+numot-the-devastator:Numot, the Devastator
+rograkh-son-of-rohgahh-yoshimaru-ever-faithful:Rograkh, Son of Rohgahh // Yoshimaru, Ever Faithful
+miara-thorn-of-the-glade-numa-joraga-chieftain:Miara, Thorn of the Glade // Numa, Joraga Chieftain
+jerren-corrupted-bishop:Jerren, Corrupted Bishop
+thalia-guardian-of-thraben:Thalia, Guardian of Thraben
+ravos-soultender-tana-the-bloodsower:Ravos, Soultender // Tana, the Bloodsower
+old-rutstein:Old Rutstein
+khorvath-brightflame-sylvia-brightspear:Khorvath Brightflame // Sylvia Brightspear
+grazilaxx-illithid-scholar:Grazilaxx, Illithid Scholar
+nezahal-primal-tide:Nezahal, Primal Tide
+naru-meha-master-wizard:Naru Meha, Master Wizard
+jeska-thrice-reborn-rograkh-son-of-rohgahh:Jeska, Thrice Reborn // Rograkh, Son of Rohgahh
+kangee-aerie-keeper:Kangee, Aerie Keeper
+moraug-fury-of-akoum:Moraug, Fury of Akoum
+astarion-the-decadent:Astarion, the Decadent
+bennie-bracks-zoologist:Bennie Bracks, Zoologist
+prime-speaker-zegana:Prime Speaker Zegana
+questing-beast:Questing Beast
+commander-liara-portyr:Commander Liara Portyr
+nissa-vastwood-seer:Nissa, Vastwood Seer
+odric-blood-cursed:Odric, Blood-Cursed
+gwafa-hazid-profiteer:Gwafa Hazid, Profiteer
+temmet-vizier-of-naktamun:Temmet, Vizier of Naktamun
+dynaheir-invoker-adept:Dynaheir, Invoker Adept
+xira-the-golden-sting:Xira, the Golden Sting
+captain-ripley-vance:Captain Ripley Vance
+ramses-assassin-lord:Ramses, Assassin Lord
+sidisi-undead-vizier:Sidisi, Undead Vizier
+neheb-dreadhorde-champion:Neheb, Dreadhorde Champion
+rivaz-of-the-claw:Rivaz of the Claw
+zirilan-of-the-claw:Zirilan of the Claw
+othelm-sigardian-outcast-wernog-riders-chaplain:Othelm, Sigardian Outcast // Wernog, Rider's Chaplain
+krark-the-thumbless-vial-smasher-the-fierce:Krark, the Thumbless // Vial Smasher the Fierce
+abaddon-the-despoiler:Abaddon the Despoiler
+kogla-the-titan-ape:Kogla, the Titan Ape
+skeleton-ship:Skeleton Ship
+niambi-esteemed-speaker:Niambi, Esteemed Speaker
+fblthp-the-lost:Fblthp, the Lost
+grenzo-havoc-raiser:Grenzo, Havoc Raiser
+circu-dimir-lobotomist:Circu, Dimir Lobotomist
+losheel-clockwork-scholar:Losheel, Clockwork Scholar
+tivash-gloom-summoner:Tivash, Gloom Summoner
+ao-the-dawn-sky:Ao, the Dawn Sky
+kodama-of-the-east-tree-kraum-ludevics-opus:Kodama of the East Tree // Kraum, Ludevic's Opus
+arcanis-the-omnipotent:Arcanis the Omnipotent
+lovisa-coldeyes:Lovisa Coldeyes
+teysa-envoy-of-ghosts:Teysa, Envoy of Ghosts
+neheb-the-worthy:Neheb, the Worthy
+tajic-blade-of-the-legion:Tajic, Blade of the Legion
+mowu-loyal-companion:Mowu, Loyal Companion
+ken-burning-brawler:Ken, Burning Brawler
+odric-master-tactician:Odric, Master Tactician
+ardenn-intrepid-archaeologist-kraum-ludevics-opus:Ardenn, Intrepid Archaeologist // Kraum, Ludevic's Opus
+nadaar-selfless-paladin:Nadaar, Selfless Paladin
+krark-the-thumbless-thrasios-triton-hero:Krark, the Thumbless // Thrasios, Triton Hero
+kytheon-hero-of-akros:Kytheon, Hero of Akros
+general-kudro-of-drannith:General Kudro of Drannith
+rootha-mercurial-artist:Rootha, Mercurial Artist
+linden-the-steadfast-queen:Linden, the Steadfast Queen
+thassa-god-of-the-sea:Thassa, God of the Sea
+akiri-line-slinger-ardenn-intrepid-archaeologist:Akiri, Line-Slinger // Ardenn, Intrepid Archaeologist
+dhalsim-pliable-pacifist:Dhalsim, Pliable Pacifist
+bell-borca-spectral-sergeant:Bell Borca, Spectral Sergeant
+akim-the-soaring-wind:Akim, the Soaring Wind
+thrasta-tempests-roar:Thrasta, Tempest's Roar
+nazahn-revered-bladesmith:Nazahn, Revered Bladesmith
+dragonlord-dromoka:Dragonlord Dromoka
+goro-goro-disciple-of-ryusei:Goro-Goro, Disciple of Ryusei
+baeloth-barrityl-entertainer-noble-heritage:Baeloth Barrityl, Entertainer // Noble Heritage
+xira-arien:Xira Arien
+kokusho-the-evening-star:Kokusho, the Evening Star
+kydele-chosen-of-kruphix-tymna-the-weaver:Kydele, Chosen of Kruphix // Tymna the Weaver
+hama-pashar-ruin-seeker:Hama Pashar, Ruin Seeker
+wilson-refined-grizzly-raised-by-giants:Wilson, Refined Grizzly // Raised by Giants
+hazoret-the-fervent:Hazoret the Fervent
+uvilda-dean-of-perfection:Uvilda, Dean of Perfection
+jasmine-boreal-of-the-seven:Jasmine Boreal of the Seven
+kraum-ludevics-opus-thrasios-triton-hero:Kraum, Ludevic's Opus // Thrasios, Triton Hero
+crosis-the-purger:Crosis, the Purger
+korlash-heir-to-blackblade:Korlash, Heir to Blackblade
+rilsa-rael-kingpin:Rilsa Rael, Kingpin
+greensleeves-maro-sorcerer:Greensleeves, Maro-Sorcerer
+lin-sivvi-defiant-hero:Lin Sivvi, Defiant Hero
+saryth-the-vipers-fang:Saryth, the Viper's Fang
+keskit-the-flesh-sculptor-toggo-goblin-weaponsmith:Keskit, the Flesh Sculptor // Toggo, Goblin Weaponsmith
+rograkh-son-of-rohgahh-tymna-the-weaver:Rograkh, Son of Rohgahh // Tymna the Weaver
+jor-kadeen-the-prevailer:Jor Kadeen, the Prevailer
+daxos-blessed-by-the-sun:Daxos, Blessed by the Sun
+haktos-the-unscarred:Haktos the Unscarred
+ishai-ojutai-dragonspeaker-kediss-emberclaw-familiar:Ishai, Ojutai Dragonspeaker // Kediss, Emberclaw Familiar
+rasputin-dreamweaver:Rasputin Dreamweaver
+sigarda-herons-grace:Sigarda, Heron's Grace
+asmodeus-the-archfiend:Asmodeus the Archfiend
+old-gnawbone:Old Gnawbone
+glenn-the-voice-of-calm:Glenn, the Voice of Calm
+oji-the-exquisite-blade:Oji, the Exquisite Blade
+kraum-ludevics-opus-vial-smasher-the-fierce:Kraum, Ludevic's Opus // Vial Smasher the Fierce
+eladamri-lord-of-leaves:Eladamri, Lord of Leaves
+sidar-kondo-of-jamuraa-tana-the-bloodsower:Sidar Kondo of Jamuraa // Tana, the Bloodsower
+ardenn-intrepid-archaeologist-silas-renn-seeker-adept:Ardenn, Intrepid Archaeologist // Silas Renn, Seeker Adept
+bhaal-lord-of-murder:Bhaal, Lord of Murder
+dargo-the-shipwrecker-malcolm-keen-eyed-navigator:Dargo, the Shipwrecker // Malcolm, Keen-Eyed Navigator
+armix-filigree-thrasher-silas-renn-seeker-adept:Armix, Filigree Thrasher // Silas Renn, Seeker Adept
+bruse-tarl-boorish-herder-kamahl-heart-of-krosa:Bruse Tarl, Boorish Herder // Kamahl, Heart of Krosa
+ardenn-intrepid-archaeologist-kediss-emberclaw-familiar:Ardenn, Intrepid Archaeologist // Kediss, Emberclaw Familiar
+sapling-of-colfenor:Sapling of Colfenor
+zellix-sanity-flayer-haunted-one:Zellix, Sanity Flayer // Haunted One
+bjorna-nightfall-alchemist-elmar-ulvenwald-informant:Bjorna, Nightfall Alchemist // Elmar, Ulvenwald Informant
+tourach-dread-cantor:Tourach, Dread Cantor
+thada-adel-acquisitor:Thada Adel, Acquisitor
+garna-bloodfist-of-keld:Garna, Bloodfist of Keld
+akroma-vision-of-ixidor-kamahl-heart-of-krosa:Akroma, Vision of Ixidor // Kamahl, Heart of Krosa
+kurkesh-onakke-ancient:Kurkesh, Onakke Ancient
+shigeki-jukai-visionary:Shigeki, Jukai Visionary
+alrund-god-of-the-cosmos:Alrund, God of the Cosmos
+valentin-dean-of-the-vein:Valentin, Dean of the Vein
+ulasht-the-hate-seed:Ulasht, the Hate Seed
+olivia-mobilized-for-war:Olivia, Mobilized for War
+rhonas-the-indomitable:Rhonas the Indomitable
+muzzio-visionary-architect:Muzzio, Visionary Architect
+balthor-the-defiled:Balthor the Defiled
+kodama-of-the-east-tree-vial-smasher-the-fierce:Kodama of the East Tree // Vial Smasher the Fierce
+varchild-betrayer-of-kjeldor:Varchild, Betrayer of Kjeldor
+catti-brie-of-mithral-hall:Catti-brie of Mithral Hall
+ishai-ojutai-dragonspeaker-kodama-of-the-east-tree:Ishai, Ojutai Dragonspeaker // Kodama of the East Tree
+gerrard-weatherlight-hero:Gerrard, Weatherlight Hero
+vona-butcher-of-magan:Vona, Butcher of Magan
+raff-weatherlight-stalwart:Raff, Weatherlight Stalwart
+armix-filigree-thrasher-ich-tekik-salvage-splicer:Armix, Filigree Thrasher // Ich-Tekik, Salvage Splicer
+blind-seer:Blind Seer
+wilson-refined-grizzly-cultist-of-the-absolute:Wilson, Refined Grizzly // Cultist of the Absolute
+seshiro-the-anointed:Seshiro the Anointed
+solkanar-the-swamp-king:Sol'kanar the Swamp King
+garna-the-bloodflame:Garna, the Bloodflame
+linvala-shield-of-sea-gate:Linvala, Shield of Sea Gate
+ravos-soultender-thrasios-triton-hero:Ravos, Soultender // Thrasios, Triton Hero
+patron-of-the-kitsune:Patron of the Kitsune
+gilanra-caller-of-wirewood-kodama-of-the-east-tree:Gilanra, Caller of Wirewood // Kodama of the East Tree
+ludevic-necro-alchemist-vial-smasher-the-fierce:Ludevic, Necro-Alchemist // Vial Smasher the Fierce
+jadar-ghoulcaller-of-nephalia:Jadar, Ghoulcaller of Nephalia
+djeru-with-eyes-open:Djeru, With Eyes Open
+keleth-sunmane-familiar-yoshimaru-ever-faithful:Keleth, Sunmane Familiar // Yoshimaru, Ever Faithful
+grakmaw-skyclave-ravager:Grakmaw, Skyclave Ravager
+ich-tekik-salvage-splicer-toggo-goblin-weaponsmith:Ich-Tekik, Salvage Splicer // Toggo, Goblin Weaponsmith
+geth-lord-of-the-vault:Geth, Lord of the Vault
+brinelin-the-moon-kraken-gilanra-caller-of-wirewood:Brinelin, the Moon Kraken // Gilanra, Caller of Wirewood
+azor-the-lawbringer:Azor, the Lawbringer
+orcus-prince-of-undeath:Orcus, Prince of Undeath
+stonebrow-krosan-hero:Stonebrow, Krosan Hero
+nashi-moon-sages-scion:Nashi, Moon Sage's Scion
+sisters-of-stone-death:Sisters of Stone Death
+tevesh-szat-doom-of-fools-tymna-the-weaver:Tevesh Szat, Doom of Fools // Tymna the Weaver
+durnan-of-the-yawning-portal-passionate-archaeologist:Durnan of the Yawning Portal // Passionate Archaeologist
+kodama-of-the-east-tree-ravos-soultender:Kodama of the East Tree // Ravos, Soultender
+lyzolda-the-blood-witch:Lyzolda, the Blood Witch
+michiko-konda-truth-seeker:Michiko Konda, Truth Seeker
+jeska-thrice-reborn-thrasios-triton-hero:Jeska, Thrice Reborn // Thrasios, Triton Hero
+hargilde-kindly-runechanter-wernog-riders-chaplain:Hargilde, Kindly Runechanter // Wernog, Rider's Chaplain
+abdel-adrian-gorions-ward-agent-of-the-iron-throne:Abdel Adrian, Gorion's Ward // Agent of the Iron Throne
+shanna-sisays-legacy:Shanna, Sisay's Legacy
+jeska-thrice-reborn-kamahl-heart-of-krosa:Jeska, Thrice Reborn // Kamahl, Heart of Krosa
+denry-klin-editor-in-chief:Denry Klin, Editor in Chief
+multani-maro-sorcerer:Multani, Maro-Sorcerer
+tiana-ships-caretaker:Tiana, Ship's Caretaker
+isperia-supreme-judge:Isperia, Supreme Judge
+umori-the-collector:Umori, the Collector
+halvar-god-of-battle:Halvar, God of Battle
+renata-called-to-the-hunt:Renata, Called to the Hunt
+jin-gitaxias-core-augur:Jin-Gitaxias, Core Augur
+reyav-master-smith:Reyav, Master Smith
+silas-renn-seeker-adept-toggo-goblin-weaponsmith:Silas Renn, Seeker Adept // Toggo, Goblin Weaponsmith
+sakashima-of-a-thousand-faces-tana-the-bloodsower:Sakashima of a Thousand Faces // Tana, the Bloodsower
+kydele-chosen-of-kruphix-thrasios-triton-hero:Kydele, Chosen of Kruphix // Thrasios, Triton Hero
+volrath-the-fallen:Volrath the Fallen
+armix-filigree-thrasher-kraum-ludevics-opus:Armix, Filigree Thrasher // Kraum, Ludevic's Opus
+urabrask-the-hidden:Urabrask the Hidden
+akiri-line-slinger-thrasios-triton-hero:Akiri, Line-Slinger // Thrasios, Triton Hero
+lozhan-dragons-legacy:Lozhan, Dragons' Legacy
+drana-kalastria-bloodchief:Drana, Kalastria Bloodchief
+vorinclex-voice-of-hunger:Vorinclex, Voice of Hunger
+dralnu-lich-lord:Dralnu, Lich Lord
+parnesse-the-subtle-brush:Parnesse, the Subtle Brush
+ob-nixilis-of-the-black-oath:Ob Nixilis of the Black Oath
+stangg-echo-warrior:Stangg, Echo Warrior
+ghyrson-starn-kelermorph:Ghyrson Starn, Kelermorph
+sakashima-of-a-thousand-faces-tormod-the-desecrator:Sakashima of a Thousand Faces // Tormod, the Desecrator
+iname-death-aspect:Iname, Death Aspect
+squee-the-immortal:Squee, the Immortal
+kamber-the-plunderer-laurine-the-diversion:Kamber, the Plunderer // Laurine, the Diversion
+nemata-primeval-warden:Nemata, Primeval Warden
+ulrich-of-the-krallenhorde:Ulrich of the Krallenhorde
+sun-quan-lord-of-wu:Sun Quan, Lord of Wu
+kefnet-the-mindful:Kefnet the Mindful
+esior-wardwing-familiar-ishai-ojutai-dragonspeaker:Esior, Wardwing Familiar // Ishai, Ojutai Dragonspeaker
+kura-the-boundless-sky:Kura, the Boundless Sky
+heliod-god-of-the-sun:Heliod, God of the Sun
+kazuul-tyrant-of-the-cliffs:Kazuul, Tyrant of the Cliffs
+zareth-san-the-trickster:Zareth San, the Trickster
+whisper-blood-liturgist:Whisper, Blood Liturgist
+kodama-of-the-east-tree-livio-oathsworn-sentinel:Kodama of the East Tree // Livio, Oathsworn Sentinel
+tawnos-urzas-apprentice:Tawnos, Urza's Apprentice
+shessra-deaths-whisper:Shessra, Death's Whisper
+vohar-vodalian-desecrator:Vohar, Vodalian Desecrator
+ich-tekik-salvage-splicer-silas-renn-seeker-adept:Ich-Tekik, Salvage Splicer // Silas Renn, Seeker Adept
+kamahl-fist-of-krosa:Kamahl, Fist of Krosa
+rona-disciple-of-gix:Rona, Disciple of Gix
+sivitri-dragon-master:Sivitri, Dragon Master
+medomai-the-ageless:Medomai the Ageless
+sakashima-of-a-thousand-faces-tevesh-szat-doom-of-fools:Sakashima of a Thousand Faces // Tevesh Szat, Doom of Fools
+ardenn-intrepid-archaeologist-esior-wardwing-familiar:Ardenn, Intrepid Archaeologist // Esior, Wardwing Familiar
+torgaar-famine-incarnate:Torgaar, Famine Incarnate
+ishai-ojutai-dragonspeaker-thrasios-triton-hero:Ishai, Ojutai Dragonspeaker // Thrasios, Triton Hero
+jaya-ballard-task-mage:Jaya Ballard, Task Mage
+ravos-soultender-tormod-the-desecrator:Ravos, Soultender // Tormod, the Desecrator
+nadier-agent-of-the-duskenel-tana-the-bloodsower:Nadier, Agent of the Duskenel // Tana, the Bloodsower
+harald-king-of-skemfar:Harald, King of Skemfar
+vhati-il-dal:Vhati il-Dal
+krark-the-thumbless-kydele-chosen-of-kruphix:Krark, the Thumbless // Kydele, Chosen of Kruphix
+dennick-pious-apprentice:Dennick, Pious Apprentice
+tymaret-the-murder-king:Tymaret, the Murder King
+cecily-haunted-mage-elmar-ulvenwald-informant:Cecily, Haunted Mage // Elmar, Ulvenwald Informant
+chisei-heart-of-oceans:Chisei, Heart of Oceans
+ohabi-caleria:Ohabi Caleria
+risona-asari-commander:Risona, Asari Commander
+oviya-pashiri-sage-lifecrafter:Oviya Pashiri, Sage Lifecrafter
+akiri-line-slinger-tymna-the-weaver:Akiri, Line-Slinger // Tymna the Weaver
+ikra-shidiqi-the-usurper-sidar-kondo-of-jamuraa:Ikra Shidiqi, the Usurper // Sidar Kondo of Jamuraa
+astor-bearer-of-blades:Astor, Bearer of Blades
+lorcan-warlock-collector:Lorcan, Warlock Collector
+ishai-ojutai-dragonspeaker-tevesh-szat-doom-of-fools:Ishai, Ojutai Dragonspeaker // Tevesh Szat, Doom of Fools
+empress-galina:Empress Galina
+tibor-and-lumia:Tibor and Lumia
+polukranos-unchained:Polukranos, Unchained
+drana-the-last-bloodchief:Drana, the Last Bloodchief
+tatyova-steward-of-tides:Tatyova, Steward of Tides
+gadwick-the-wizened:Gadwick, the Wizened
+callaphe-beloved-of-the-sea:Callaphe, Beloved of the Sea
+isperia-the-inscrutable:Isperia the Inscrutable
+dargo-the-shipwrecker-tevesh-szat-doom-of-fools:Dargo, the Shipwrecker // Tevesh Szat, Doom of Fools
+fain-the-broker:Fain, the Broker
+triad-of-fates:Triad of Fates
+vish-kal-blood-arbiter:Vish Kal, Blood Arbiter
+akroma-vision-of-ixidor-sakashima-of-a-thousand-faces:Akroma, Vision of Ixidor // Sakashima of a Thousand Faces
+cecily-haunted-mage:Cecily, Haunted Mage
+taigam-sidisis-hand:Taigam, Sidisi's Hand
+kwende-pride-of-femeref:Kwende, Pride of Femeref
+bruse-tarl-boorish-herder-tymna-the-weaver:Bruse Tarl, Boorish Herder // Tymna the Weaver
+emperor-mihail-ii:Emperor Mihail II
+cecily-haunted-mage-wernog-riders-chaplain:Cecily, Haunted Mage // Wernog, Rider's Chaplain
+akiri-line-slinger-ich-tekik-salvage-splicer:Akiri, Line-Slinger // Ich-Tekik, Salvage Splicer
+dragonlord-silumgar:Dragonlord Silumgar
+wilson-refined-grizzly-flaming-fist:Wilson, Refined Grizzly // Flaming Fist
+ludevic-necrogenius:Ludevic, Necrogenius
+demonlord-belzenlok:Demonlord Belzenlok
+kraum-ludevics-opus-tormod-the-desecrator:Kraum, Ludevic's Opus // Tormod, the Desecrator
+katilda-dawnhart-martyr:Katilda, Dawnhart Martyr
+ravos-soultender-reyhan-last-of-the-abzan:Ravos, Soultender // Reyhan, Last of the Abzan
+kodama-of-the-east-tree-tevesh-szat-doom-of-fools:Kodama of the East Tree // Tevesh Szat, Doom of Fools
+asmira-holy-avenger:Asmira, Holy Avenger
+ludevic-necro-alchemist-sidar-kondo-of-jamuraa:Ludevic, Necro-Alchemist // Sidar Kondo of Jamuraa
+ikra-shidiqi-the-usurper-ishai-ojutai-dragonspeaker:Ikra Shidiqi, the Usurper // Ishai, Ojutai Dragonspeaker
+alharu-solemn-ritualist-reyhan-last-of-the-abzan:Alharu, Solemn Ritualist // Reyhan, Last of the Abzan
+kalitas-traitor-of-ghet:Kalitas, Traitor of Ghet
+drana-liberator-of-malakir:Drana, Liberator of Malakir
+rohgahh-kher-keep-overlord:Rohgahh, Kher Keep Overlord
+anax-hardened-in-the-forge:Anax, Hardened in the Forge
+guile-sonic-soldier:Guile, Sonic Soldier
+gilanra-caller-of-wirewood-vial-smasher-the-fierce:Gilanra, Caller of Wirewood // Vial Smasher the Fierce
+kydele-chosen-of-kruphix-ravos-soultender:Kydele, Chosen of Kruphix // Ravos, Soultender
+varis-silverymoon-ranger:Varis, Silverymoon Ranger
+jolrael-empress-of-beasts:Jolrael, Empress of Beasts
+targ-nar-demon-fang-gnoll:Targ Nar, Demon-Fang Gnoll
+anax-and-cymede:Anax and Cymede
+belakor-the-dark-master:Be'lakor, the Dark Master
+nadier-agent-of-the-duskenel-numa-joraga-chieftain:Nadier, Agent of the Duskenel // Numa, Joraga Chieftain
+hokori-dust-drinker:Hokori, Dust Drinker
+sophina-spearsage-deserter-wernog-riders-chaplain:Sophina, Spearsage Deserter // Wernog, Rider's Chaplain
+ob-nixilis-unshackled:Ob Nixilis, Unshackled
+celestial-kirin:Celestial Kirin
+abdel-adrian-gorions-ward-far-traveler:Abdel Adrian, Gorion's Ward // Far Traveler
+thryx-the-sudden-storm:Thryx, the Sudden Storm
+ormos-archive-keeper:Ormos, Archive Keeper
+vorosh-the-hunter:Vorosh, the Hunter
+timothar-baron-of-bats:Timothar, Baron of Bats
+thrasios-triton-hero-tormod-the-desecrator:Thrasios, Triton Hero // Tormod, the Desecrator
+kydele-chosen-of-kruphix-tevesh-szat-doom-of-fools:Kydele, Chosen of Kruphix // Tevesh Szat, Doom of Fools
+kari-zev-skyship-raider:Kari Zev, Skyship Raider
+jaheira-friend-of-the-forest-street-urchin:Jaheira, Friend of the Forest // Street Urchin
+jeska-thrice-reborn-tevesh-szat-doom-of-fools:Jeska, Thrice Reborn // Tevesh Szat, Doom of Fools
+trostani-discordant:Trostani Discordant
+the-peregrine-dynamo:The Peregrine Dynamo
+sengir-the-dark-baron-tevesh-szat-doom-of-fools:Sengir, the Dark Baron // Tevesh Szat, Doom of Fools
+adriana-captain-of-the-guard:Adriana, Captain of the Guard
+darigaaz-reincarnated:Darigaaz Reincarnated
+dargo-the-shipwrecker-silas-renn-seeker-adept:Dargo, the Shipwrecker // Silas Renn, Seeker Adept
+deekah-fractal-theorist:Deekah, Fractal Theorist
+daghatar-the-adamant:Daghatar the Adamant
+radha-heir-to-keld:Radha, Heir to Keld
+errant-street-artist:Errant, Street Artist
+ikra-shidiqi-the-usurper-ludevic-necro-alchemist:Ikra Shidiqi, the Usurper // Ludevic, Necro-Alchemist
+arvad-the-cursed:Arvad the Cursed
+burakos-party-leader-haunted-one:Burakos, Party Leader // Haunted One
+ardenn-intrepid-archaeologist-toggo-goblin-weaponsmith:Ardenn, Intrepid Archaeologist // Toggo, Goblin Weaponsmith
+barrowin-of-clan-undurr:Barrowin of Clan Undurr
+akroma-vision-of-ixidor-tana-the-bloodsower:Akroma, Vision of Ixidor // Tana, the Bloodsower
+glacian-powerstone-engineer-rebbec-architect-of-ascension:Glacian, Powerstone Engineer // Rebbec, Architect of Ascension
+the-haunt-of-hightower:The Haunt of Hightower
+diaochan-artful-beauty:Diaochan, Artful Beauty
+silumgar-the-drifting-death:Silumgar, the Drifting Death
+dromar-the-banisher:Dromar, the Banisher
+silas-renn-seeker-adept-tymna-the-weaver:Silas Renn, Seeker Adept // Tymna the Weaver
+padeem-consul-of-innovation:Padeem, Consul of Innovation
+pashalik-mons:Pashalik Mons
+ganax-astral-hunter-acolyte-of-bahamut:Ganax, Astral Hunter // Acolyte of Bahamut
+urabrask-heretic-praetor:Urabrask, Heretic Praetor
+tuya-bearclaw:Tuya Bearclaw
+rakdos-the-defiler:Rakdos the Defiler
+danitha-capashen-paragon:Danitha Capashen, Paragon
+ikra-shidiqi-the-usurper-sakashima-of-a-thousand-faces:Ikra Shidiqi, the Usurper // Sakashima of a Thousand Faces
+ib-halfheart-goblin-tactician:Ib Halfheart, Goblin Tactician
+ich-tekik-salvage-splicer-ishai-ojutai-dragonspeaker:Ich-Tekik, Salvage Splicer // Ishai, Ojutai Dragonspeaker
+elmar-ulvenwald-informant-wernog-riders-chaplain:Elmar, Ulvenwald Informant // Wernog, Rider's Chaplain
+tajic-legions-edge:Tajic, Legion's Edge
+exava-rakdos-blood-witch:Exava, Rakdos Blood Witch
+mistform-ultimus:Mistform Ultimus
+kaho-minamo-historian:Kaho, Minamo Historian
+storrev-devkarin-lich:Storrev, Devkarin Lich
+aurelia-exemplar-of-justice:Aurelia, Exemplar of Justice
+ulamog-the-infinite-gyre:Ulamog, the Infinite Gyre
+gadrak-the-crown-scourge:Gadrak, the Crown-Scourge
