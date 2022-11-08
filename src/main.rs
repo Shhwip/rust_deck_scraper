@@ -1,6 +1,6 @@
 use std::thread;
 use std::iter::Map;
-use std::file;
+use std::fs::File;
 use std::io::{self, BufRead};
 use std::path::Path;
 use scraper::Html;
@@ -17,6 +17,10 @@ fn scrape_deck(title: &str) {
     let deck_doc = scraper::Html::parse_document(&deck_response);
     // selects all cards including tokens
     // TODO: remove tokens
+    // this is giving a bunch of repeats
+    // the decks with primers, even hidden ones! make hundreds of dupes
+    // the following deck:https://tappedout.net/mtg-decks/dominus-dreamcrusher-edition/
+    // has 120 cards in the deck but the scraper picks up 582 cards because of the hidden primer
     let card_selector = scraper::Selector::parse("span.card>a").unwrap();
     // prints each card
     // TODO: place the cards into a database
@@ -36,6 +40,8 @@ fn select_top_decks(commander: &str) {
     let mut search_link = String::from("https://tappedout.net/mtg-decks/search/?q=&format=edh&general=");
     search_link.push_str(commander);
     search_link.push_str("&price_min=&price_max=&o=-Views&submit=Filter+results");
+    // debug line
+    println!("{}", search_link);
     // turn the page into html
     let response = reqwest::blocking::get(search_link).unwrap().text().unwrap();
     let document: Html = scraper::Html::parse_document(&response);
@@ -53,14 +59,39 @@ fn select_top_decks(commander: &str) {
         thread::sleep(Duration::from_millis(*wait_time.get(0).unwrap()));
     }
 }
+fn read_lines<P>(filename: P) -> io::Result<io::Lines<io::BufReader<File>>>
+where P: AsRef<Path>, {
+    let file = File::open(filename)?;
+    Ok(io::BufReader::new(file).lines())
+}
+
+fn first_colon(s: &String) -> usize {
+    let bytes = s.as_bytes();
+
+    for (i, &item) in bytes.iter().enumerate() {
+        if item == b':' {
+            return i;
+        }
+    }
+
+    s.len()
+}
 
 fn main() {
 
-    let commander = "gluntch-the-bestower";
-
-    // This goes to the page that lists the top decks for the selected commander
-    // TODO select from the commanders.html file to go through all of the top commanders
-    select_top_decks(commander);
-
-
+    // let mut commander = "gluntch-the-bestower";
+    if let Ok(lines) = read_lines("./data/commanders.txt") {
+        for line in lines {
+            if let Ok(commander) = line {
+                // this should be reading line by line but its picking up the wrong commanders/decks
+                // this should be the first deck selected
+                // https://tappedout.net/mtg-decks/atraxa-voice-of-infect/
+                // this is the first deck selected
+                // https://tappedout.net/mtg-decks/mikaeus-extreme-sub-20-budget-edh/
+                let sanitized = &commander[..first_colon(&commander)];
+                println!("{}",sanitized);
+                select_top_decks(sanitized);
+            }
+        }
+    }
 }
