@@ -21,6 +21,7 @@ fn scrape_deck(title: &str) {
     // the decks with primers, even hidden ones! make hundreds of dupes
     // the following deck:https://tappedout.net/mtg-decks/dominus-dreamcrusher-edition/
     // has 120 cards in the deck but the scraper picks up 582 cards because of the hidden primer
+    // TODO: fix this by selecting the class "row board-container"
     let card_selector = scraper::Selector::parse("span.card>a").unwrap();
     // prints each card
     // TODO: place the cards into a database
@@ -83,11 +84,6 @@ fn main() {
     if let Ok(lines) = read_lines("./data/commanders.txt") {
         for line in lines {
             if let Ok(commander) = line {
-                // this should be reading line by line but its picking up the wrong commanders/decks
-                // this should be the first deck selected
-                // https://tappedout.net/mtg-decks/atraxa-voice-of-infect/
-                // this is the first deck selected
-                // https://tappedout.net/mtg-decks/mikaeus-extreme-sub-20-budget-edh/
                 let sanitized = &commander[..first_colon(&commander)];
                 println!("{}",sanitized);
                 select_top_decks(sanitized);
